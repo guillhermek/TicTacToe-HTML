@@ -1,0 +1,75 @@
+
+.startplayer{
+    margin-top: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
+    right: 100%;
+    
+    height: 60px;
+    width: 170px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.buttonstart{
+    height: 100%;
+    width: 100%;
+    font-family:sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+    background-color: #000000;
+    border: 4px 4px 4px 4px ;
+    border-color: whitesmoke;
+}
+.buttonstart:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-color: black;
+}
+
+#twoplayers {
+
+
+
+    margin-top: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
+    right: 100%;
+    
+    height: 60px;
+    width: 170px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+        font-family:sans-serif;
+        font-size: medium;
+        font-weight: bold;
+        color: white;
+        background-color: #000000;
+        border: 4px 4px 4px 4px ;
+        border-color: whitesmoke;
+}
+
+#twoplayers:hover{
+    background-color: whitesmoke;
+    color: black;
+    border-color: black;
+}
+
+
+
+#videoprincipal {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+  } 
